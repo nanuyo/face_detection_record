@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/detectBodyParts.cpp
+detectBodyParts.h
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/detectBodyParts.h
+
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/detectBodyParts.h
+opencv2/objdetect/objdetect.hpp
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/opencv2/imgproc/imgproc.hpp
+iostream
+-
+stdio.h
+-
+
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/main.cpp
+opencv2/objdetect/objdetect.hpp
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/opencv2/imgproc/imgproc.hpp
+iostream
+-
+stdio.h
+-
+detectBodyParts.h
+/home/hjpark/eclipse-workspace/opencv/face-detection-record/detectBodyParts.h
+
